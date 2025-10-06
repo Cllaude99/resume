@@ -1,0 +1,29 @@
+{
+  "name": "cllaude99",
+  "version": "1.0.1",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "cllaude99": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "resume",
+    "portfolio"
+  ],
+  "author": "Taeyoon Kim <cllaude1025@gmail.com> (https://github.com/Cllaude99)",
+  "license": "ISC",
+  "description": "CLI tool to display Taeyoon Kim's portfolio information",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cllaude99/cllaude99-cli"
+  },
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.6.2",
+    "inquirer": "^12.9.6"
+  }
+}
