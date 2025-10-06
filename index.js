@@ -48,8 +48,7 @@ const data = {
 const boxenOptions = {
   padding: { left: 2, right: 2, top: 1, bottom: 1 },
   margin: { left: 0, right: 0, top: 1, bottom: 1 },
-  borderStyle: 'round',
-  borderColor: '#0064FF',
+  borderStyle: 'none',
   backgroundColor: '#FFFFFF',
   width: 150,
   float: 'left',
