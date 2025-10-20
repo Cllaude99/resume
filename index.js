@@ -13,7 +13,7 @@ const data = {
     linkedin: chalk.blue.underline(
       'https://www.linkedin.com/in/%ED%83%9C%EC%9C%A4-%EA%B9%80-a94635301/'
     ),
-    blog: chalk.blue.underline('https://velog.io/@cllaude/posts'),
+    blog: chalk.blue.underline('https://www.cllaude99.com/'),
     resume: chalk.blue.underline(
       'https://www.figma.com/design/5PCRrw8GCIBRMxa62s4oyC/%EA%B9%80%ED%83%9C%EC%9C%A4-%EC%9D%B4%EB%A0%A5%EC%84%9C'
     ),
@@ -31,7 +31,7 @@ const data = {
     linkedin: chalk.blue.underline(
       'https://www.linkedin.com/in/%ED%83%9C%EC%9C%A4-%EA%B9%80-a94635301/'
     ),
-    blog: chalk.blue.underline('https://velog.io/@cllaude/posts'),
+    blog: chalk.blue.underline('https://www.cllaude99.com/'),
     resume: chalk.blue.underline(
       'https://www.figma.com/design/5PCRrw8GCIBRMxa62s4oyC/%EA%B9%80%ED%83%9C%EC%9C%A4-%EC%9D%B4%EB%A0%A5%EC%84%9C'
     ),
