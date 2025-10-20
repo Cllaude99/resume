@@ -9,6 +9,11 @@ A CLI tool that displays my portfolio information in the terminal.
 npx cllaude99
 ```
 
+## 배포방법
+
+- package.json의 version 값 수정
+- `npm publish --access=public` 명령어를 통해 배포
+
 ## Features / 주요 기능
 
 - Display basic information / 기본 정보 표시
