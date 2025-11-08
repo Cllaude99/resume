@@ -46,10 +46,9 @@ const data = {
 
 // 박스 스타일 설정
 const boxenOptions = {
-  padding: { left: 2, right: 2, top: 1, bottom: 1 },
+  padding: { left: 0, right: 0, top: 1, bottom: 1 },
   margin: { left: 0, right: 0, top: 1, bottom: 1 },
   borderStyle: 'none',
-  backgroundColor: '#FFFFFF',
   width: 150,
   float: 'left',
 };
