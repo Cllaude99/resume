@@ -1,6 +1,6 @@
 {
   "name": "cllaude99",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "index.js",
   "type": "module",
   "bin": {
@@ -19,7 +19,7 @@
   "description": "CLI tool to display Taeyoon Kim's portfolio information",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Cllaude99/cllaude99-cli"
+    "url": "https://github.com/Cllaude99/resume"
   },
   "dependencies": {
     "boxen": "^8.0.1",
